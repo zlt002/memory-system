@@ -4,7 +4,7 @@ status: backlog
 created: 2025-09-17T14:13:23Z
 progress: 0%
 prd: .claude/prds/memory-system.md
-github: [Will be updated when synced to GitHub]
+github: https://github.com/zlt002/memory-system/issues/1
 ---
 
 # Epic: memory-system
@@ -150,18 +150,18 @@ github: [Will be updated when synced to GitHub]
   - V1.0：6个月（完整功能）
 
 ## Tasks Created
-- [ ] 001.md - 项目基础设施搭建 (parallel: true)
-- [ ] 002.md - Java Agent 开发 (parallel: false)
-- [ ] 003.md - Python Agent 开发 (parallel: false)
-- [ ] 004.md - 数据收集服务 (parallel: false)
-- [ ] 005.md - API 网关服务 (parallel: true)
-- [ ] 006.md - 时序数据库集成 (parallel: true)
-- [ ] 007.md - 内存分析引擎 (parallel: true)
-- [ ] 008.md - 告警系统 (parallel: true)
-- [ ] 009.md - 监控仪表板前端 (parallel: true)
-- [ ] 010.md - 管理控制台界面 (parallel: true)
-- [ ] 011.md - 集成测试套件 (parallel: false)
-- [ ] 012.md - 文档和部署 (parallel: true)
+- [ ] #2 - 项目基础设施搭建 (parallel: true)
+- [ ] #3 - Java Agent 开发 (parallel: false)
+- [ ] #4 - Python Agent 开发 (parallel: false)
+- [ ] #5 - 数据收集服务 (parallel: false)
+- [ ] #6 - API 网关服务 (parallel: true)
+- [ ] #7 - 时序数据库集成 (parallel: true)
+- [ ] #8 - 内存分析引擎 (parallel: true)
+- [ ] #9 - 告警系统 (parallel: true)
+- [ ] #10 - 监控仪表板前端 (parallel: true)
+- [ ] #11 - 管理控制台界面 (parallel: true)
+- [ ] #12 - 集成测试套件 (parallel: false)
+- [ ] #13 - 文档和部署 (parallel: true)
 
 Total tasks: 12
 Parallel tasks: 8
